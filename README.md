@@ -4,6 +4,6 @@
 ### Using Nginx to manage statistical files
 
 ### Images
-* https://hub.docker.com/r/douglasq/alura-books
+* https://hub.docker.com/r/douglasq/alura-books (tag:cap06)
 * https://hub.docker.com/r/douglasq/nginx
 
