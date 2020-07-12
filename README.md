@@ -7,8 +7,6 @@
 * https://hub.docker.com/r/douglasq/alura-books (tag:cap06)
 * https://hub.docker.com/r/douglasq/nginx
 
-### Commands
-
 #### Build
   > docker-compose build
 
@@ -18,3 +16,6 @@
 #### Stop
  > docker-compose down
 
+
+### Commands
+[Link](https://github.com/joao-vitor-costa/docker-compose/blob/master/Commands.md)
