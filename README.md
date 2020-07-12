@@ -7,3 +7,14 @@
 * https://hub.docker.com/r/douglasq/alura-books (tag:cap06)
 * https://hub.docker.com/r/douglasq/nginx
 
+### Commands
+
+#### Build
+  > docker-compose build
+
+#### Start
+  > docker-compose up
+
+#### Stop
+ > docker-compose down
+
